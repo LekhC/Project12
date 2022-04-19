@@ -1,1 +1,2 @@
-# Project12
+# collisionAlgorithm
+Algorithm to detect collision between two objects
